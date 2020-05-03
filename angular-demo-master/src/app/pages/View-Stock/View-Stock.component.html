@@ -1,0 +1,35 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+
+
+
+<div class="table-style" style="width: 60%; margin-left: 20%; margin-right: 20%;">
+  <table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">Price</th>
+    <th scope="col">Item Sold</th>
+    <th scope="col">Remaining</th>
+ 
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of items; index as i">
+    <th scope="row">{{ i + 1 }}</th>
+    <td class="td-img">
+      <img [src]="'../../../assets/img/' + item.picture" class="mr-2" style="width: 20px">
+      {{ item.name }}
+    </td>
+    <td>{{ item.price | number }}</td>
+    <td>{{ item.itemSold | number}}</td>
+    <td>{{ item.Remaining | number}}</td>
+    
+
+  </tr>
+  </tbody>
+</table></div>

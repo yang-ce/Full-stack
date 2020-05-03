@@ -1,0 +1,23 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+<div class="list-div"> 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><label class="top-label">ID</label><label class="top-label">Subcategory</label><label class="top-label">Discount</label><label class="top-label">Code</label>
+    <label class="top-label">Start Time</label><label class="top-label">End Time</label>
+  
+  </li>
+  <li class="list-group-item"><label class="top-label">1</label><label class="top-label">Mobile</label><label class="top-label">20% off</label><label class="top-label">305273</label>
+    <label class="top-label"> 2020/03/01</label><label class="top-label"> 2020/03/03</label>
+  </li>
+  <li class="list-group-item"><label class="top-label">2</label><label class="top-label">Camera</label><label class="top-label">15% off</label><label class="top-label">405273</label>
+    <label class="top-label"> 2020/04/01</label><label class="top-label"> 2020/04/03</label>
+    <li class="list-group-item"><label class="top-label">3</label><label class="top-label">Laptop</label><label class="top-label">30% off</label><label class="top-label">505273</label>
+      <label class="top-label"> 2020/05/01</label><label class="top-label"> 2020/05/03</label>
+
+  <li class="list-group-item"><a class="nav-link active"  [routerLink]="['/']">Back to Home</a></li>
+  
+</ul>
+</div>

@@ -1,0 +1,36 @@
+.navbar{
+  text-align: center;
+}
+ul{
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+ 
+  
+  
+}
+ul li{
+ 
+  display: inline;
+  margin: 10px 3rem;
+  flex-direction: column;
+  padding: 0;
+  white-space: nowrap;
+  
+}
+a{
+  text-decoration: none;
+  color: #6F6F6F
+}
+.active{
+  color:black
+}
+.indicator{
+  background: brown;
+  height: 2px;
+  width: 100%;
+  margin-top: 2px;
+}

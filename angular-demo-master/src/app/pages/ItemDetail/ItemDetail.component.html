@@ -1,0 +1,25 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+<div class="list-div"> 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><label class="top-label">HuaWei P30</label> </li>
+  <li class="list-group-item"><img src="../../../assets/img/HuaWei.JPG"  class="mr-2" style="width: 80px"></li>
+  <li class="list-group-item"><label class="left-label">Price:</label><label class="right-label">Rs: 12500/-</label></li>
+  <li class="list-group-item"><label class="left-label">Seller:</label><label class="right-label">Seller1</label></li>
+  <li class="list-group-item"><label class="left-label">Screen Resolution:</label><label class="right-label">50 x 150</label></li>
+  <li class="list-group-item"><label class="left-label">Network Type:</label><label class="right-label">4G</label></li>
+  <li class="list-group-item"><label class="left-label">Battery Capacity:</label><label class="right-label">50 x 150</label></li>
+  <li class="list-group-item"><label class="left-label">Memory Storage:</label><label class="right-label">50 x 150</label></li>
+  <li class="list-group-item"><label class="left-label">Cameras :</label><label class="right-label">50 x 150</label></li>
+  <li class="list-group-item"><label class="left-label">OS Version:</label><label class="right-label">50 x 150</label></li>
+  <li class="list-group-item">
+    <button type="button" class="btn btn-secondary" [routerLink]="['/cart']" style="margin-right: 30px;">Add to Cart</button>
+    <button type="button" class="btn btn-secondary" [routerLink]="['/item-detail']">Check out</button>
+  </li>
+  <li class="list-group-item"><a class="nav-link active"  [routerLink]="['/']">Back to Home</a></li>
+  
+</ul>
+</div>

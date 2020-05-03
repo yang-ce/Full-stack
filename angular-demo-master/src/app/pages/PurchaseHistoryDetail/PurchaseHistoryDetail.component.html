@@ -1,0 +1,20 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+<div class="list-div"> 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><label class="top-label">HuaWei P30</label> </li>
+  <li class="list-group-item"><img src="../../../assets/img/HuaWei.JPG"  class="mr-2" style="width: 80px"></li>
+  <li class="list-group-item"><label class="left-label">Price:</label><label class="right-label">Rs: 7000/-</label></li>
+  <li class="list-group-item"><label class="left-label">Tax:</label><label class="right-label">Rs: 300/-</label></li>
+  <li class="list-group-item"><label class="left-label">Discount:</label><label class="right-label">Rs: 500/-</label></li>
+  <li class="list-group-item"><label class="left-label">Fianl Price:</label><label class="right-label">Rs: 7200/-</label></li>
+  <li class="list-group-item"><label class="left-label">Order Date:</label><label class="right-label">2020/01/01</label></li>
+
+
+  <li class="list-group-item"><a class="nav-link active"  [routerLink]="['/PurchaseHistory']">Purchase History</a></li>
+  
+</ul>
+</div>

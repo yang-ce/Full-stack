@@ -1,0 +1,106 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+
+
+<div class="table-style" style="margin-top: 30px;">
+  <table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">Price</th>
+    <th scope="col">Count</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of items; index as i">
+    <th scope="row">{{ i + 1 }}</th>
+    <td class="td-img">
+      <img [src]="'../../../assets/img/' + item.picture" class="mr-2" style="width: 20px">
+      {{ item.name }}
+    </td>
+    <td>{{ item.price | number }}</td>
+    <!-- <td><button type="button" class="btn btn-secondary" item.count= item.count+1>View</button></td> -->
+    <td>
+      <input type="button" id="" value="-" onclick="reduce(this)" />
+      <input type="text" id="" value="20" />
+      <input type="button" id="" value="+" onclick="plus(this)" />
+    </td>
+    <td>
+      <button type="button" class="btn btn-secondary" >Delete</button>
+    </td>
+ 
+  </tbody>
+</table></div>
+<div class="bottom-div">
+  <label style="margin-right: 50px;">Total Price:</label>
+  <label>Rs 29300-</label>
+  <label style="margin-right: 50px;margin-left: 150px;">Total Tax:</label>  
+  <label>Rs 1500-</label>
+</div>
+<div class="bottom-div" style="margin-top: 30px;" >
+  <button type="button" class="btn btn-secondary" >Apply Discount</button>
+  <input type="text" style="margin-right: 50px" id="" value="" />
+  <button type="button" class="btn btn-secondary"  [routerLink]="['/PurchaseHistory']">Checkout</button>
+</div>
+<div class="bottom-div" style="margin-top: 30px;" >
+  <a class="nav-link active"  [routerLink]="['/']" >Back to Home</a>
+</div>
+<script type="text/javascript">
+
+  //删除一行数据
+  function del(obj){
+      var result = confirm("您确定要删除吗?");
+
+      if (result) {
+          $(obj).parent().parent().remove();//删除
+      }
+  }
+  //批量删除
+  function delAll(){
+      //得到所有选中的checkbox
+      var cbs = $("input:checked");
+      if (cbs.length==0) {
+          alert("请选择!");
+      }else{
+          cbs.each(function(){
+              $(this).parent().parent().remove();
+          });
+      }
+
+  }
+  //数量加加
+  function plus(obj){
+      //得到数量控件
+      var eleNum = $(obj).prev("input");
+      //得到值
+      var v = eleNum.val();
+
+      v++;
+      //进行赋值
+      eleNum.val(v);
+
+  }
+
+  //数量减减
+  function reduce(obj){
+      //得到 数量 控件
+      var eleNum = $(obj).next("input");
+      //得到值
+      var v = eleNum.val();
+      //数值减减
+      v--;
+      //进行赋值
+      eleNum.val(v);
+
+  }
+
+
+
+
+
+
+</script>

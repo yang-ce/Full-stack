@@ -1,0 +1,21 @@
+<div class="navbar">
+  <ul [ngStyle]="{'background-color': backgroundColor}">
+    <li *ngFor="let menu of menus; let i = index">
+      <a [routerLink]= menu.link
+      [class.active] = "i == selectedIndex"
+      (click)="handleSelection(i)">
+      {{menu.title}}
+      </a>
+      <span class="indicator" *ngIf="i == selectedIndex"></span>
+    </li>
+     <li>
+       <a [routerLink]="['/cart']" ><img src="../../../assets/img/cart_icon.png" ></a>
+    </li>
+    <form class="form-inline mt-2 mt-md-0">
+      <button class="btn btn-outline-primary" type="submit" style="margin-right: 10px;" [routerLink]="['/signin-buyer']">Buyer Sign in</button>
+      <button class="btn btn-outline-primary" type="submit" [routerLink]="['/signin-seller']">Seller Sign in</button>
+    </form>
+
+  </ul>
+  
+</div>

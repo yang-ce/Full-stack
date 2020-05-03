@@ -1,0 +1,53 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+<div class="search">
+  <div class="search_text_div">  
+    <input type="text" name="searchBox"  class="search_text_input"/>
+  </div>
+  <div class="search_buttont_div">  
+    <button type="button" class="btn btn-secondary" type="submit">Search</button>
+  </div>
+</div>
+<div class="filter">
+  <div class="filter_StarPrice">    
+    <label>Star Price</label>  
+    <input type="text" name="starpriceInput"  class="starprice-input"/>
+  </div>
+<div class="filter_EndPrice">
+    <label>End Price</label>  
+    <input type="text" name="endpriceInput"  class="starprice-input"/>
+  </div>
+<div class="filter_Manufacturer">
+    <label>Manufacturer</label>  
+    <input type="text" name="manufacturerInput"  class="manufacturer-input"/>
+  </div>
+
+
+</div>
+<div class="table-style">
+  <table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">Price</th>
+    <th scope="col">Seller</th>
+    <th scope="col">Detail</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of items; index as i">
+    <th scope="row">{{ i + 1 }}</th>
+    <td class="td-img">
+      <img [src]="'../../../assets/img/' + item.picture" class="mr-2" style="width: 20px">
+      {{ item.name }}
+    </td>
+    <td>{{ item.price | number }}</td>
+    <td>{{ item.seller}}</td>
+    <td><button type="button" class="btn btn-secondary" [routerLink]="['/item-detail']">View</button></td>
+  </tr>
+  </tbody>
+</table></div>

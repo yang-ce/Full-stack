@@ -1,0 +1,13 @@
+.list-div{
+
+  width: 50%;
+  margin-left: 25%;
+    text-align: center;
+    justify-content: center;
+  }
+  .left-label{
+    margin-right: 30px;
+  }
+  .top-label{
+    margin-right: 30px;
+  }

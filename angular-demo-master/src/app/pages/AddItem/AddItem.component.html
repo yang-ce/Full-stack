@@ -1,0 +1,79 @@
+<app-category 
+[menus]="topMenus" 
+[backgroundColor] = "'#CECCCC'"
+(tabSeletcted)="handleTabSelected($event)"
+></app-category>
+<div class="list-div"> 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><label class="top-label">HuaWei P30</label> </li>
+  <li class="list-group-item"><img src="../../../assets/img/HuaWei.JPG"  class="mr-2" style="width: 80px">
+    <button type="button" class="btn btn-secondary" style="margin-left: 30px;">Add Thunamnail</button>
+  </li>
+  <li class="list-group-item"><label class="left-label">Select Categary:</label>
+    <div class="btn-group">
+      <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Electonic
+      </button>
+      <div class="dropdown-menu dropdown-menu-right">
+        <button class="dropdown-item" type="button">Action</button>
+        <button class="dropdown-item" type="button">Another action</button>
+        <button class="dropdown-item" type="button">Something else here</button>
+      </div>
+    </div>
+  </li>
+  <li class="list-group-item"><label class="left-label">Select Subcategary:</label>
+    <div class="btn-group">
+      <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Electonic
+      </button>
+      <div class="dropdown-menu dropdown-menu-right">
+        <button class="dropdown-item" type="button">Action</button>
+        <button class="dropdown-item" type="button">Another action</button>
+        <button class="dropdown-item" type="button">Something else here</button>
+      </div>
+    </div>
+  </li>
+
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;" >Item name:</label>
+    <input ngModel name="ItemName" type="text" id="inputItemName" class="form-control" style="width: 40%;" placeholder="Oppo A5S" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Price:</label>
+    <input ngModel name="Price" type="text" id="inputPrice" class="form-control" style="width: 40%;" placeholder="Rs.9900/-" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">NO.of Stock Items:</label>
+    <input ngModel name="StockItem" type="text" id="inputStockItem" class="form-control" style="width: 40%;" placeholder="100" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Screen Resolution:</label>
+    <input ngModel name="ScreenResolution" type="text" id="inputScreenResolution" class="form-control" style="width: 40%;" placeholder="50 x 100" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Network Type :</label>
+    <div class="btn-group">
+      <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        4G
+      </button>
+      <div class="dropdown-menu dropdown-menu-right">
+        <button class="dropdown-item" type="button">Action</button>
+        <button class="dropdown-item" type="button">Another action</button>
+        <button class="dropdown-item" type="button">Something else here</button>
+      </div>
+    </div>
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Battery Capacity:</label>
+    <input ngModel name="BatteryCapacity" type="text" id="inputBatteryCapacity" class="form-control" style="width: 40%;" placeholder="3500mAh" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Memory Storage:</label>
+    <input ngModel name="MemoryStorage" type="text" id="inputMemoryStorage" class="form-control" style="width: 40%;" placeholder="64G" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">Cameras:</label>
+    <input ngModel name="Cameras" type="text" id="inputCameras" class="form-control" style="width: 40%;" placeholder="30PM" >
+  </li>
+  <li class="list-group-item" style="display: flex;"><label class="left-label" style="width: 40%; text-align: right;">OS Version:</label>
+    <input ngModel name="OSVersion" type="text" id="inputOS Version" class="form-control" style="width: 40%;" placeholder="Android" >
+  </li>
+  <li class="list-group-item">
+    <button type="button" class="btn btn-secondary" [routerLink]="['/cart']" style="margin-right: 30px;">Save & Sell Item</button>
+  </li>
+
+  
+</ul>
+</div>
