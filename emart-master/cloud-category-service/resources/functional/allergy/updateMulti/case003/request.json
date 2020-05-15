@@ -1,0 +1,23 @@
+[
+	{
+		"integratedCustomerId": "T01234567890",
+		"allergyCode": "cd011",
+		"fieldsToNull": [
+			"allergyComment"
+		]
+	},
+	{
+		"integratedCustomerId": "T01234567891",
+		"allergyCode": "cd012",
+		"fieldsToNull": [
+			"allergyComments"
+		]
+	},
+	{
+		"integratedCustomerId": "T01234567892",
+		"allergyCode": "cd013",
+		"fieldsToNull": [
+			"allergyComment"
+		]
+	}
+]

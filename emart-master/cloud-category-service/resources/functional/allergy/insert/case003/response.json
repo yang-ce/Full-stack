@@ -1,0 +1,25 @@
+[
+	{
+		"commonInfo": {
+			"integratedCustomerId": "T01234567890",
+			"cemId": "C012345678",
+			"surnameUniversal": "栗",
+			"firstNameUniversal": "興傑",
+			"titleUniversal": "エンジニア",
+			"surnameRom": "KURI",
+			"firstNameRom": "KYOUKETU",
+			"titleRom": "Engineer",
+			"birthDate": "1980-12-08",
+			"gender": "1",
+			"jmbNumber": "J012345678",
+			"serviceGrade": "a",
+			"unrulyKbn": "b",
+			"boardingRefusalFlg": true,
+			"isDeleted": false
+		},
+		"integratedCustomerId": "T01234567890",
+		"allergyCode": "cd014",
+		"allergyComment": "4",
+		"allergyUpdateTime": "2019-06-17T01:02:03.349"
+	}
+]

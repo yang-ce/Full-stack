@@ -1,0 +1,19 @@
+
+    {
+	"contactCategory": "bb1",
+	"addressMainSubKbn": "bb2",
+	"addressLanguageCode": "b3",
+	"address1": "bb4",
+	"address2": "bb5",
+	"cityNameOfAddress": "bb6",
+	"stateCodeOfAddress": "bb7",
+	"stateNameOfAddress": "bb8",
+	"countryCodeOfAddress": "b9",
+	"countryNameOfAddress": "bb10",
+	"postCodeOfAddress": "bb11",
+	"addressText": "bb12",
+	"postOfficeBoxNumberOfAddress": "bb13",
+	"addressRank": 7,
+	"addressDataSourceId": "b",
+	"addressUpdateTime": "2019-02-15T00:00:00"
+}

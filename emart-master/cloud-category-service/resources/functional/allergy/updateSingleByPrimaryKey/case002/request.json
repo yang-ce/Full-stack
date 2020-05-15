@@ -1,0 +1,6 @@
+{
+	"fieldsToNull": [
+		"allergyComment",
+		"allergyUpdateTime"
+	]
+}

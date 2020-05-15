@@ -1,0 +1,46 @@
+[
+	{
+		"commonInfo": {
+			"integratedCustomerId": "T01234567890",
+			"cemId": "1234567890",
+			"surnameUniversal": "栗",
+			"firstNameUniversal": "興傑",
+			"titleUniversal": "エンジニア",
+			"surnameRom": "KURI",
+			"firstNameRom": "KYOUKETU",
+			"titleRom": "Engineer",
+			"birthDate": "1980-12-08",
+			"gender": "1",
+			"jmbNumber": "J012345678",
+			"serviceGrade": "a",
+			"unrulyKbn": "b",
+			"boardingRefusalFlg": true,
+			"isDeleted": false
+		},
+		"integratedCustomerId": "T01234567890",
+		"addressDataSourceType": "aa",
+		"addressBranchNumber": 1
+	},
+	{
+		"commonInfo": {
+			"integratedCustomerId": "T01234567891",
+			"cemId": "1234567891",
+			"surnameUniversal": "李",
+			"firstNameUniversal": "冬寒",
+			"titleUniversal": "マネージャー",
+			"surnameRom": "RI",
+			"firstNameRom": "DONGHAN",
+			"titleRom": "Manager",
+			"birthDate": "1970-11-12",
+			"gender": "2",
+			"jmbNumber": "J012345671",
+			"serviceGrade": "c",
+			"unrulyKbn": "d",
+			"boardingRefusalFlg": false,
+			"isDeleted": true
+		},
+		"integratedCustomerId": "T01234567891",
+		"addressDataSourceType": "dd",
+		"addressBranchNumber": 2
+	}
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "commonInfo": {
+            "integratedCustomerId": "T01234567890",
+            "cemId": "C012345678",
+            "surnameUniversal": "栗",
+            "firstNameUniversal": "興傑",
+            "titleUniversal": "エンジニア",
+            "surnameRom": "KURI",
+            "firstNameRom": "KYOUKETU",
+            "titleRom": "Engineer",
+            "birthDate": "1980-12-08",
+            "gender": "1",
+            "jmbNumber": "J012345678",
+            "serviceGrade": "a",
+            "unrulyKbn": "b",
+            "boardingRefusalFlg": true,
+            "isDeleted": false
+
+        },
+        "integratedCustomerId": "T01234567890",
+        "allergyCode": "cd011"
+    },
+    {
+        "commonInfo": {
+            "integratedCustomerId": "T01234567891",
+            "cemId": "C012345671",
+            "surnameUniversal": "李",
+            "firstNameUniversal": "冬寒",
+            "titleUniversal": "マネージャー",
+            "surnameRom": "RI",
+            "firstNameRom": "DONGHAN",
+            "titleRom": "Manager",
+            "birthDate": "1970-11-12",
+            "gender": "1",
+            "jmbNumber": "J012345671",
+            "serviceGrade": "c",
+            "unrulyKbn": "d",
+            "boardingRefusalFlg": false,
+            "isDeleted": true
+        },
+        "integratedCustomerId": "T01234567891",
+        "allergyCode": "cd012"
+    }
+]

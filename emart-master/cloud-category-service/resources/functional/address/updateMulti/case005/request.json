@@ -1,0 +1,24 @@
+[
+
+	{
+		"integratedCustomerId": "T01234567892",
+		"addressDataSourceType": "gg",
+		"addressBranchNumber": 3,
+		"contactCategory": "ii1",
+		"addressMainSubKbn": "ii2",
+		"addressLanguageCode": "i3",
+		"address1": "ii4",
+		"address2": "ii5",
+		"cityNameOfAddress": "ii6",
+		"stateCodeOfAddress": "ii7",
+		"stateNameOfAddress": "ii8",
+		"countryCodeOfAddress": "i9",
+		"countryNameOfAddress": "ii10",
+		"postCodeOfAddress": "ii11",
+		"addressText": "ii12",
+		"postOfficeBoxNumberOfAddress": "ii13",
+		"addressRank": 9,
+		"addressDataSourceId": "i",
+		"addressUpdateTime": "2019-09-15T00:00:00"
+	}
+]

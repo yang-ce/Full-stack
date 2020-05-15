@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CategoryEntity.java&apos; to &apos;cloud-category-service/src/main/java/com.iiht.emart.category.entity&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;common&apos;&#x0D;&#x0A;- 宛先要素: &apos;cloud-category-service/src/main/java/com.iiht.emart.category.entity&apos;&#x0D;&#x0A;- オリジナル要素: &apos;com.iiht.emart.entity.CategoryEntity.java&apos;" description="コンパイル単位をコピー" destination="=cloud-category-service/src\/main\/java&lt;com.iiht.emart.category.entity" element1="/src\/main\/java&lt;com.iiht.emart.entity{CategoryEntity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589376005236" units="1" version="1.0"/>
+</session>

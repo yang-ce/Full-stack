@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="カテゴリーなし">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="CategoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="DiscountsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="ItemsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="PurchaseHistoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SubCategoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TransactionsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-category-service - CategoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-discounts-service - DiscountsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-items-service - ItemsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-purchase-history-service - PurchaseHistoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-subcategory-service - SubCategoryApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="cloud-transactions-service - TransactionsApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.case001TestFindAllCategory"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.case002TestById"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.case002TestFindById"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.case003TestCreate"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.case004TestDelete"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testCategoryController.test1"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testItemsController.getAllTest"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="testItemsController.test1"/>
+</category>
+</runner>

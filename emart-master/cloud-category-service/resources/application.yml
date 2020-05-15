@@ -1,0 +1,36 @@
+##TEST用
+spring:
+  profiles:
+    include:
+    - ut
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgrespass
+    initialization-mode: always
+    platform: postgresql
+    
+  jackson:
+    default-property-inclusion: NON_NULL
+external:
+  cem:
+    hostname: foo
+    port: 9999
+    
+asyncendpoint:
+  queue:
+    destination: DEV.QUEUE.1
+  listener:
+    concurrency: 5-100
+  qmgr:
+    host: localhost
+    port: 1414
+    name: QM1
+    channel: DEV.APP.SVRCONN
+    username: app
+    password: ''
+  
+codbapi:
+  auth:
+    ignore: true

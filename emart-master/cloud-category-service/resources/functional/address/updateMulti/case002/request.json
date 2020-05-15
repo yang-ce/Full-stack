@@ -1,0 +1,49 @@
+[
+	{
+		"integratedCustomerId": "T01234567890",
+		"addressDataSourceType": "aa",
+		"addressBranchNumber": 1,
+		"fieldsToNull": [
+			"contactCategory",
+			"addressMainSubKbn",
+			"addressLanguageCode",
+			"address1",
+			"address2",
+			"cityNameOfAddress",
+			"stateCodeOfAddress",
+			"stateNameOfAddress",
+			"countryCodeOfAddress",
+			"countryNameOfAddress",
+			"postCodeOfAddress",
+			"addressText",
+			"postOfficeBoxNumberOfAddress",
+			"addressRank",
+			"addressDataSourceId",
+			"addressUpdateTime"
+		]
+	},
+	{
+
+		"integratedCustomerId": "T01234567891",
+		"addressDataSourceType": "dd",
+		"addressBranchNumber": 2,
+		"fieldsToNull": [
+			"contactCategory",
+			"addressMainSubKbn",
+			"addressLanguageCode",
+			"address1",
+			"address2",
+			"cityNameOfAddress",
+			"stateCodeOfAddress",
+			"stateNameOfAddress",
+			"countryCodeOfAddress",
+			"countryNameOfAddress",
+			"postCodeOfAddress",
+			"addressText",
+			"postOfficeBoxNumberOfAddress",
+			"addressRank",
+			"addressDataSourceId",
+			"addressUpdateTime"
+		]
+	}
+]

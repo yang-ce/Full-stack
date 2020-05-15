@@ -1,0 +1,44 @@
+package com.iiht.emart.items.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.iiht.emart.discounts.entity.TransactionsEntity;
+import com.iiht.emart.discounts.repository.TransactionsRepository;
+
+
+@Service
+public class TransactionsBusiness implements TransactionsService{
+	@Autowired
+	private TransactionsRepository transactionsRepository;
+
+
+
+	public List<TransactionsEntity> findAllCategory() {
+		// TODO 自動生成されたメソッド・スタブ
+		return transactionsRepository.findAll();
+	}
+
+
+
+	public TransactionsEntity createCategory(TransactionsEntity subCategory) {
+		// TODO 自動生成されたメソッド・スタブ
+		return transactionsRepository.save(subCategory);
+	}
+
+
+
+	public TransactionsEntity updateCategory(TransactionsEntity subCategory) {
+		// TODO 自動生成されたメソッド・スタブ
+		return transactionsRepository.save(subCategory);
+	}
+
+
+
+	public void delete(Integer id) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+}

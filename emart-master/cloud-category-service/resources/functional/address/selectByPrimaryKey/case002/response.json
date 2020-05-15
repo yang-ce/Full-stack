@@ -1,0 +1,53 @@
+
+
+	{
+	"commonInfo": {
+		"integratedCustomerId": "T01234567890",
+		"cemId": "1234567890",
+		"surnameUniversal": "栗",
+		"firstNameUniversal": "興傑",
+		"titleUniversal": "エンジニア",
+		"surnameRom": "KURI",
+		"firstNameRom": "KYOUKETU",
+		"titleRom": "Engineer",
+		"birthDate": "1980-12-08",
+		"gender": "1",
+		"jmbNumber": "J012345678",
+		"serviceGrade": "a",
+		"unrulyKbn": "b",
+		"boardingRefusalFlg": true,
+		"isDeleted": false
+	},
+	"integratedCustomerId": "T01234567890",
+	"addressDataSourceType": "aa",
+	"addressBranchNumber": 1,
+	"contactCategory": "aa1",
+	"addressMainSubKbn": "aa2",
+	"addressLanguageCode": "a3",
+	"address1": "aa4",
+	"address2": "aa5",
+	"cityNameOfAddress": "aa6",
+	"stateCodeOfAddress": "aa7",
+	"stateNameOfAddress": "aa8",
+	"countryCodeOfAddress": "a9",
+	"countryNameOfAddress": "aa10",
+	"postCodeOfAddress": "aa11",
+	"addressText": "aa12",
+	"postOfficeBoxNumberOfAddress": "aa13",
+	"addressRank": 4,
+	"addressDataSourceId": "a",
+	"addressUpdateTime": "2019-01-15T00:00:00.123",
+	"dataSourceInfo": {
+		"cemId": "1234567890",
+		"dataSourceId": "a",
+		"dataSourceType": "aa",
+		"dataSourceCreateTime": "2019-05-29T21:32:41.081",
+		"dataSourceUpdateTime": "2019-06-20T21:32:41.081",
+		"integratedCustomerId": "T01234567890",
+		"pnrRecordLocator": "PNLOC1",
+		"envelopeNumber": 1231,
+		"passengerTatoo": "TATTOO1",
+		"pnrPurgeTime": "2019-06-19T21:32:41.081"
+	}
+}
+

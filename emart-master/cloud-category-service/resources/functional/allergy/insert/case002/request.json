@@ -1,0 +1,14 @@
+[
+	{
+		"integratedCustomerId": "T01234567890",
+		"allergyCode": "cd014",
+		"allergyComment": "4",
+		"allergyUpdateTime": "2019-06-17T01:02:03.349"
+	},
+	{
+		"integratedCustomerId": "T01234567891",
+		"allergyCode": "cd015",
+		"allergyComment": "5",
+		"allergyUpdateTime": "2019-07-27T01:02:03.349"
+	}
+]

@@ -1,0 +1,2 @@
+"cust_unq_id","algy_cd","algy_cmnt","cre_dept_cd","cre_usr_cd","cre_tmstmp","upd_dept_cd","upd_usr_cd","upd_tmstmp","del_flg","optmstic_lck_id"
+"T01234567890","cd015","3","cd56789012","cd45678904","2019-05-18 00:00:00","cd56789012","cd10987654","2023-05-19 00:00:00",true,"id267481274                         "

@@ -1,0 +1,44 @@
+package com.iiht.emart.discounts.service;
+
+import java.util.List;
+
+import com.iiht.emart.discounts.entity.DiscountsEntity;
+
+
+
+public interface TransactionsService {
+
+	/**
+	 * ����ID��ѯһ���û�
+	 *
+	 * @param
+	 * @return
+	 */
+	public List<DiscountsEntity> findAllCategory();
+
+	/**
+	 * ����ID��ѯһ���û�
+	 *
+	 * @param
+	 * @return
+	 */
+
+	public DiscountsEntity createCategory(DiscountsEntity category);
+
+	/**
+	 * �����û���Ϣ
+	 *
+	 * @param user
+	 * @return
+	 */
+	public DiscountsEntity updateCategory(DiscountsEntity category);
+
+	/**
+	 * �����û�
+	 *
+	 * @param id
+	 * @return
+	 */
+
+	public void delete(Integer id);
+}

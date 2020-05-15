@@ -1,0 +1,7 @@
+
+    {
+	"contactCategory": "mm",
+	"fieldsToNull": [
+		"contactCategory"
+	]
+}

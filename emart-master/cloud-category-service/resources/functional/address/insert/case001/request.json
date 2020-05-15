@@ -1,0 +1,14 @@
+[
+	{
+		"integratedCustomerId": "T01234567890",
+		"addressDataSourceType": "bb"
+	},
+	{
+		"integratedCustomerId": "T01234567892",
+		"addressDataSourceType": "gg"
+	},
+	{
+		"integratedCustomerId": "T01234567891",
+		"addressDataSourceType": "ee"
+	}
+]

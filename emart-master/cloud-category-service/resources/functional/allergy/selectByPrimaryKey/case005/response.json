@@ -1,0 +1,21 @@
+{
+	"commonInfo": {
+		"integratedCustomerId": "T01234567891",
+		"cemId": "C012345671",
+		"surnameUniversal": "李",
+		"firstNameUniversal": "冬寒",
+		"titleUniversal": "マネージャー",
+		"surnameRom": "RI",
+		"firstNameRom": "DONGHAN",
+		"titleRom": "Manager",
+		"birthDate": "1970-11-12",
+		"gender": "1",
+		"jmbNumber": "J012345671",
+		"serviceGrade": "c",
+		"unrulyKbn": "d",
+		"boardingRefusalFlg": false,
+		"isDeleted": true
+	},
+	"integratedCustomerId": "T01234567891",
+	"allergyCode": "cd012"
+}
