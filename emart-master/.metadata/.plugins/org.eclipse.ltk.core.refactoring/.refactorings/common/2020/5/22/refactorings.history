@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ &apos;com.iiht.emart.entity&apos; を &apos;cloud-user-service/src/main/java/com.iiht.emart.user&apos; にコピー&#x0D;&#x0A;- 元のプロジェクト: &apos;common&apos;&#x0D;&#x0A;- 宛先要素: &apos;cloud-user-service/src/main/java/com.iiht.emart.user&apos;&#x0D;&#x0A;- オリジナル要素: &apos;common/src/main/java/com.iiht.emart.entity&apos;" description="パッケージをコピー" destination="=cloud-user-service/src\/main\/java&lt;com.iiht.emart.user" element1="/src\/main\/java&lt;com.iiht.emart.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1590332333642" version="1.0"/>
+</session>

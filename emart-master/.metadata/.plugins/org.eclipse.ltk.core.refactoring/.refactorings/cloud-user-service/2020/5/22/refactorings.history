@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;com.iiht.emart.entity&apos; を &apos;com.iiht.emart.user.entity&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;cloud-user-service&apos;&#x0D;&#x0A;- オリジナル要素: &apos;cloud-user-service/src/main/java/com.iiht.emart.entity&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;cloud-user-service/src/main/java/com.iiht.emart.user.entity&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新&#x0D;&#x0A;- パッケージのサブパッケージを名前変更" description="パッケージ名 &apos;com.iiht.emart.entity&apos; を変更します" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.iiht.emart.entity" name="com.iiht.emart.user.entity" qualified="false" references="true" stamp="1590332406811" textual="false" version="1.0"/>
+</session>

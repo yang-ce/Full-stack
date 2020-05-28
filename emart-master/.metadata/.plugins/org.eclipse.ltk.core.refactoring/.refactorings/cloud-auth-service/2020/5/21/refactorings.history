@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;cloud-auth2-service/src/main/java/com.iiht.emart.auth&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;cloud-auth-service&apos;&#x0D;&#x0A;- 宛先要素: &apos;cloud-auth2-service/src/main/java/com.iiht.emart.auth&apos;&#x0D;&#x0A;- オリジナル要素:&#x0D;&#x0A;     cloud-auth-service/src/main/java/com.iiht.emart.auth.entity&#x0D;&#x0A;     cloud-auth-service/src/main/java/com.iiht.emart.auth.repository" description="パッケージのコピー" destination="=cloud-auth2-service/src\/main\/java&lt;com.iiht.emart.auth" element1="/src\/main\/java&lt;com.iiht.emart.auth.entity" element2="/src\/main\/java&lt;com.iiht.emart.auth.repository" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1590244366805" version="1.0"/>
+</session>

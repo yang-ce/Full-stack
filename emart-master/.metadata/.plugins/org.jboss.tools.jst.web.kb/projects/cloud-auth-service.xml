@@ -75,11 +75,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-4.3.13.RELEASE.jar/meta-inf/spring-form.tld" project="cloud-category-service"/>
+      path="FileSystems/lib-spring-webmvc-4.3.13.RELEASE.jar/meta-inf/spring-form.tld" project="cloud-auth-service"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-4.3.13.RELEASE.jar/meta-inf/spring.tld" project="cloud-category-service"/>
+      path="FileSystems/lib-spring-webmvc-4.3.13.RELEASE.jar/meta-inf/spring.tld" project="cloud-auth-service"/>
     </library>
    </libraries>
   </path>
@@ -163,7 +163,6 @@
   <path value="C:/Users/CeYang/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
   <el/>
  </validation>
  <aliases/>

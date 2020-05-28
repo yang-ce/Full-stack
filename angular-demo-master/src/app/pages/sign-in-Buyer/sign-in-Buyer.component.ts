@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {UserService} from '../../services/user.service';
 import { Router } from '@angular/router';
 import { Category } from 'src/app';
+import { Key } from 'protractor';
 
 interface Alert {
   type: string;
@@ -25,6 +26,9 @@ export class SignInComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    if(sessionStorage.getItem('token')) {
+      this.router.navigate(['/']);
+    }
   }
   
   /* 登录操作 */
@@ -36,7 +40,9 @@ export class SignInComponent implements OnInit {
           const info: any = data;
           if (200 === info.code) {
               console.log('登录成功，调转详情页');
-              this.router.navigate(['/products']);
+              sessionStorage.setItem('token',info.result.token)
+              this.router.navigate(['/']);
+
           } else {
             console.log('登录失败，弹出MSG');
             this.alerts.push({type : 'danger', message: 'username or password error!'});

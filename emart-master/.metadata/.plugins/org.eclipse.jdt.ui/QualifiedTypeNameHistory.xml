@@ -29,4 +29,5 @@
 <fullyQualifiedTypeName name="com.iiht.emart.category.entity.CategoryEntity"/>
 <fullyQualifiedTypeName name="org.springframework.util.MultiValueMap"/>
 <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="com.iiht.emart.auth.repository.UserRepository"/>
 </qualifiedTypeNameHistroy>

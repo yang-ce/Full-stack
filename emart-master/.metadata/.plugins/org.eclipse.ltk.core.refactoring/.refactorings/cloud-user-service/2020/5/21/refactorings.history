@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;cloud-user-service&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;cloud-user-service&apos;&#x0D;&#x0A;- オリジナル要素: &apos;cloud-user-service/src/main/java/com.iiht.emart.user.vo&apos;" description="要素を削除" element1="/src\/main\/java&lt;com.iiht.emart.user.vo" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1590247389185" subPackages="false" version="1.0"/>
+</session>
