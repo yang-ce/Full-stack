@@ -1,5 +1,5 @@
 server:
-   port: 8084
+   port: 8087
 spring:
    application:
       name: cloud-purchase-history-service
@@ -21,10 +21,13 @@ logging:
       hibernate:
         SQL: DEBUG
 eureka:
+   instance:
+      preferIpAddress: true   #注册服务的IP，而不是服务器的名称
       client: 
-         registerWithEureka: false	#向Eureka注册服务
-         fetchRegistry: false		#拉取注册表的本副本
-
+         registerWithEureka: true #向Eureka注册服务
+         fetchRegistry: true    #拉取注册表的本副本
+         serviceUrl: 
+            defaultZone: http://localhost:8761/eureka/
 
 #安全配置
 #security:

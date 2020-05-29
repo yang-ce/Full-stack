@@ -4072,3 +4072,64 @@ org.eclipse.debug.core.DebugException: file:/C:/emart-master/.metadata/.plugins/
 2020-05-27 17:16:35,037 [Worker-52: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-27 17:16:35,053 [Worker-52: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-27 17:16:35,053 [Worker-52: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-05-28 16:36:42,991 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-28 17:37:19,046 [Worker-32: OAuthApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:37:19,059 [Worker-32: OAuthApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:37:19,100 [Worker-32: OAuthApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-28 17:37:19,108 [Worker-32: OAuthApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:37:19,109 [Worker-32: OAuthApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-auth2-service\src\test\resources
+2020-05-29 15:10:53,107 [Worker-53: CategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:10:53,128 [Worker-53: CategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:10:53,219 [Worker-53: CategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:10:53,230 [Worker-53: CategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:10:53,230 [Worker-53: CategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-category-service\src\test\resources
+2020-05-29 15:15:30,027 [Worker-55: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:15:30,042 [Worker-55: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:15:30,089 [Worker-55: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:15:30,127 [Worker-55: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:15:30,127 [Worker-55: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-05-29 15:20:15,610 [Worker-53: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:20:15,611 [Worker-53: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:20:16,057 [Worker-53: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:20:16,084 [Worker-53: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:20:16,085 [Worker-53: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-discounts-service\src\test\resources
+2020-05-29 15:20:29,988 [Worker-41: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:20:30,058 [Worker-41: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:20:32,125 [Worker-41: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:20:32,147 [Worker-41: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:20:32,147 [Worker-41: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-items-service\src\test\resources
+2020-05-29 15:23:48,258 [Worker-59: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:23:48,280 [Worker-59: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:23:48,280 [Worker-59: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:23:48,296 [Worker-59: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:23:48,296 [Worker-59: DiscountsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-discounts-service\src\test\resources
+2020-05-29 15:23:53,417 [Worker-55: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:23:53,417 [Worker-55: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 15:23:53,448 [Worker-55: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 15:23:53,458 [Worker-55: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 15:23:53,458 [Worker-55: ItemsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-items-service\src\test\resources
+2020-05-29 17:04:59,409 [Worker-82: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:04:59,424 [Worker-82: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 17:04:59,424 [Worker-82: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 17:04:59,424 [Worker-82: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:04:59,424 [Worker-82: UserApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-05-29 17:32:38,205 [Worker-86: SubCategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:32:38,224 [Worker-86: SubCategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 17:32:38,602 [Worker-86: SubCategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 17:32:38,608 [Worker-86: SubCategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:32:38,608 [Worker-86: SubCategoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-subcategory-service\src\test\resources
+2020-05-29 17:37:44,825 [Worker-89: TransactionsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:37:44,827 [Worker-89: TransactionsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 17:37:44,870 [Worker-89: TransactionsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 17:37:44,874 [Worker-89: TransactionsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:37:44,875 [Worker-89: TransactionsApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-transactions-service\src\test\resources
+2020-05-29 17:38:59,409 [Worker-87: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:38:59,425 [Worker-87: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 17:38:59,456 [Worker-87: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 17:38:59,473 [Worker-87: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:38:59,473 [Worker-87: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-purchase-history-service\src\test\resources
+2020-05-29 17:48:26,384 [Worker-90: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:48:26,399 [Worker-90: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 17:48:26,399 [Worker-90: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 17:48:26,415 [Worker-90: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-29 17:48:26,415 [Worker-90: PurchaseHistoryApplication の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-purchase-history-service\src\test\resources
