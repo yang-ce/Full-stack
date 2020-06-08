@@ -2,7 +2,13 @@
 <kb-project>
  <depends-on-projects/>
  <used-by-projects>
+  <project name="cloud-items-service"/>
+  <project name="cloud-subcategory-service"/>
   <project name="cloud-user-service"/>
+  <project name="cloud-purchase-history-service"/>
+  <project name="cloud-category-service"/>
+  <project name="cloud-transactions-service"/>
+  <project name="cloud-discounts-service"/>
  </used-by-projects>
  <paths>
   <path value="C:/Users/CeYang/.m2/repository/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar"/>

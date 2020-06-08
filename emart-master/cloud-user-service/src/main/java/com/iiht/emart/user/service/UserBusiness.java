@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
 
-import com.iiht.emart.entity.UserEntity;
+import com.iiht.emart.user.entity.UserEntity;
 import com.iiht.emart.user.repository.UserRepository;
 
 @Service
@@ -19,18 +19,22 @@ public class UserBusiness implements UserService{
 		return null;
 	}
 
+	public UserEntity findUserByUserName(String userName){
+		return userRepository.findByUserName(userName);
+	}
+
 	public UserEntity findUserById(Integer id) {
 		return userRepository.findById(id);
 	}
-	
+
+
 	public List<UserEntity> findAllUsers(){
 		return userRepository.findAll();
 	}
-	
-	/**
-	 * ����һ��USER��
-	 */
+
+
 	public UserEntity registUser(UserEntity user){
+
 		return userRepository.saveAndFlush(user);
 	}
 
@@ -54,4 +58,5 @@ public class UserBusiness implements UserService{
 	public void delete(Integer id) {
 		userRepository.delete(id);
 	}
+
 }

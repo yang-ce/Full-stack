@@ -4716,3 +4716,399 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-06-08 09:54:28,420 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-06-08 09:54:28,423 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-08 09:54:28,424 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:31:07,691 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-08 22:37:44,105 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:37:44,124 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:37:44,182 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:37:44,189 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:37:44,189 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:37:59,807 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:37:59,820 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:37:59,837 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:37:59,887 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:37:59,888 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:04,081 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:04,085 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:04,095 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:04,102 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:04,103 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:10,378 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:10,381 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:10,390 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:10,396 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:10,397 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:15,142 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:15,144 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:15,155 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:15,161 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:15,162 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:21,748 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:21,750 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:21,787 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:21,793 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:21,794 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:27,665 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:27,667 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:27,675 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:27,697 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:27,698 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:37,017 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:37,018 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:37,024 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:37,032 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:37,032 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:44,312 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:44,314 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:44,321 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:44,326 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:44,328 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:38:52,768 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:52,773 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:38:52,790 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:38:52,795 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:38:52,806 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:02,460 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:02,476 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:02,492 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:02,504 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:02,505 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:09,416 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:09,418 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:09,424 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:09,430 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:09,430 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:16,542 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:16,544 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:16,550 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:16,556 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:16,556 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:26,657 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:26,665 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:26,784 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:26,806 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:26,806 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:36,581 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:36,585 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:36,593 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:36,600 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:36,601 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:49,018 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:49,028 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:49,117 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:49,138 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:49,139 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:39:57,403 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:57,427 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:39:57,446 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:39:57,452 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:39:57,453 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:40:05,372 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:05,372 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:40:05,380 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:40:05,385 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:05,386 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:40:14,179 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:14,179 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:40:14,186 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:40:14,191 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:14,191 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:40:23,538 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:23,539 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:40:23,543 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:40:23,546 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:23,548 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:40:28,850 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:28,851 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:40:28,854 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:40:28,856 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:28,857 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:40:36,732 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:36,733 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:40:36,738 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:40:36,742 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:40:36,743 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:41:07,126 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:07,128 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:41:07,138 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:41:07,142 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:07,142 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:41:22,507 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:22,513 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:41:22,520 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:41:22,542 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:22,543 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:41:35,879 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:35,888 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:41:35,898 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:41:35,903 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:35,904 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:41:49,841 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:49,843 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:41:49,851 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:41:49,857 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:41:49,858 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:42:03,974 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:42:03,975 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:42:04,023 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:42:04,027 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:42:04,028 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:42:25,456 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:42:25,457 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:42:25,492 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:42:25,495 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:42:25,495 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:43:52,633 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:43:52,635 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:43:52,708 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:43:52,713 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:43:52,714 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-auth-service\src\test\resources
+2020-06-08 22:44:53,780 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:44:53,781 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:44:53,843 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:44:53,851 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:44:53,851 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-auth2-service\src\test\resources
+2020-06-08 22:45:09,646 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:09,647 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:45:09,819 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:45:09,829 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:09,830 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-eureka-service\src\test\resources
+2020-06-08 22:45:28,881 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:28,881 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:45:29,010 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:45:29,016 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:29,047 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-zuul-service\src\test\resources
+2020-06-08 22:45:44,640 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:44,641 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\common\src\main\resources
+2020-06-08 22:45:44,643 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\common\src\main\resources
+2020-06-08 22:45:44,648 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:45:44,649 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\common\src\test\resources
+2020-06-08 22:46:11,585 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:11,587 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:46:11,627 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:46:11,634 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:11,634 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:46:24,747 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:24,748 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:46:24,895 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:46:24,899 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:24,899 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-transactions-service\src\test\resources
+2020-06-08 22:46:33,598 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:33,598 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:46:34,004 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:46:34,016 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:34,016 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-subcategory-service\src\test\resources
+2020-06-08 22:46:43,621 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:43,621 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:46:43,882 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:46:43,885 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:43,885 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-purchase-history-service\src\test\resources
+2020-06-08 22:46:56,103 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:56,103 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:46:56,196 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:46:56,201 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:46:56,201 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-items-service\src\test\resources
+2020-06-08 22:47:05,633 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:05,648 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:47:05,998 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:47:06,002 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:06,003 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CeYang\Desktop\Full stack\github\Full-stack\emart-master\cloud-discounts-service\src\test\resources
+2020-06-08 22:47:17,949 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:17,950 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:47:18,013 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:47:18,016 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:18,017 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-category-service\src\test\resources
+2020-06-08 22:47:26,011 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:26,017 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:47:26,034 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:47:26,039 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:26,039 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-auth-service\src\test\resources
+2020-06-08 22:47:49,633 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:49,635 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:47:49,641 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:47:49,646 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:49,647 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:47:56,728 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:56,730 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:47:56,736 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:47:56,743 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:47:56,744 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:00,825 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:00,827 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:00,863 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:00,879 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:00,880 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:05,808 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:05,809 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:05,857 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:05,875 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:05,875 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:09,486 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:09,488 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:09,496 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:09,500 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:09,501 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:13,685 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:13,687 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:13,699 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:13,711 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:13,712 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:17,360 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:17,361 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:17,365 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:17,367 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:17,368 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:23,264 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:23,265 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:23,274 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:23,278 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:23,279 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:29,920 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:29,921 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:29,933 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:29,940 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:29,940 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:36,880 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:36,881 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:36,884 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:36,888 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:36,892 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:41,937 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:41,939 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:41,954 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:41,960 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:41,960 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:50,682 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:50,684 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:50,723 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:50,729 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:50,729 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:48:56,709 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:56,712 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:48:56,727 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:48:56,734 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:48:56,735 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:05,938 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:05,941 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:05,958 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:05,966 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:05,966 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:12,214 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:12,217 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:12,254 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:12,264 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:12,264 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:19,593 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:19,594 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:19,600 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:19,604 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:19,604 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:26,127 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:26,129 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:26,133 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:26,136 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:26,137 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:32,429 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:32,433 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:32,505 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:32,516 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:32,517 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:42,985 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:42,987 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:43,005 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:43,023 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:43,033 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:49:52,366 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:52,367 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:49:52,389 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:49:52,393 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:49:52,393 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:03,178 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:03,179 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:03,185 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:03,189 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:03,189 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:08,461 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:08,462 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:08,466 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:08,468 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:08,468 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:14,019 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:14,021 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:14,027 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:14,032 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:14,032 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:20,764 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:20,766 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:20,771 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:20,775 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:20,775 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:29,371 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:29,371 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:29,376 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:29,380 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:29,380 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:39,340 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:39,342 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:39,348 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:39,353 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:39,353 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:47,719 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:47,721 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:47,725 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:47,731 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:47,731 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:50:58,650 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:58,651 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:50:58,657 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:50:58,662 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:50:58,662 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:06,729 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:06,730 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:06,734 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:06,737 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:06,737 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:13,154 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:13,156 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:13,160 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:13,164 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:13,164 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:20,179 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:20,180 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:20,186 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:20,189 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:20,190 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:26,670 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:26,672 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:26,676 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:26,678 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:26,678 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:36,735 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:36,737 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:37,190 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:37,202 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:37,203 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:51:50,962 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:50,964 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:51:50,971 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:51:50,976 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:51:50,977 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:52:02,640 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:02,641 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:52:02,650 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:52:02,655 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:02,655 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:52:19,049 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:19,051 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:52:19,059 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:52:19,066 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:19,066 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:52:35,516 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:35,519 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:52:35,528 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:52:35,533 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:52:35,534 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources
+2020-06-08 22:53:03,871 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:53:03,874 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 22:53:03,884 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-08 22:53:03,889 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 22:53:03,890 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\emart-master\cloud-user-service\src\test\resources

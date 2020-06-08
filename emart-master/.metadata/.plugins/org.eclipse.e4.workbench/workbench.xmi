@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_rZaEEKkoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_rZaEEakoEeqzpfC_yOIzkw" bindingContexts="_rZflfakoEeqzpfC_yOIzkw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserService.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserBusiness.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ResourceServerConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTTokenStoreConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;cloud-user-service/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-user-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CorsConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTOAuth2Config.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;AuthorizationServerEndpointsConfiguration.class&quot; tooltip=&quot;org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-auth2-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/security\/oauth\/spring-security-oauth2\/2.0.12.RELEASE\/spring-security-oauth2-2.0.12.RELEASE.jar&amp;lt;org.springframework.security.oauth2.config.annotation.web.configuration(AuthorizationServerEndpointsConfiguration.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AuthUserDetailsService.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContextFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContext.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-zuul-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccessFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SecurityConfig.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CorsConfig.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/CorsConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/CorsConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserEntity.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/entity/UserEntity.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/entity/UserEntity.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;JpaRepository.class&quot; tooltip=&quot;org.springframework.data.jpa.repository.JpaRepository&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-user-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/1.11.9.RELEASE\/spring-data-jpa-1.11.9.RELEASE.jar&amp;lt;org.springframework.data.jpa.repository(JpaRepository.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserBusiness.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserService.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-transactions-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-transactions-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-eureka-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-eureka-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EurekaServerApplication.java&quot; tooltip=&quot;cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ResourceServerConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTTokenStoreConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;cloud-user-service/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-user-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CorsConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTOAuth2Config.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;AuthorizationServerEndpointsConfiguration.class&quot; tooltip=&quot;org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-auth2-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/security\/oauth\/spring-security-oauth2\/2.0.12.RELEASE\/spring-security-oauth2-2.0.12.RELEASE.jar&amp;lt;org.springframework.security.oauth2.config.annotation.web.configuration(AuthorizationServerEndpointsConfiguration.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AuthUserDetailsService.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContextFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContext.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; tooltip=&quot;cloud-zuul-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccessFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SecurityConfig.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_rZaEEakoEeqzpfC_yOIzkw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_rZaEEqkoEeqzpfC_yOIzkw" label="%trimmedwindow.label.eclipseSDK" x="841" y="203" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_rZaEEakoEeqzpfC_yOIzkw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_rZaEEqkoEeqzpfC_yOIzkw" label="%trimmedwindow.label.eclipseSDK" x="667" y="298" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -80,8 +80,9 @@
           <tags>persp.newWizSC:org.fusesource.ide.branding.wizards.NewCamelTestWizard</tags>
           <tags>persp.newWizSC:org.fusesource.ide.camel.editor.wizards.NewMessageWizard</tags>
           <tags>persp.newWizSC:org.fusesource.ide.branding.wizards.FuseProjectWizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_rZaEFakoEeqzpfC_yOIzkw" selectedElement="_rZaEHakoEeqzpfC_yOIzkw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_rZaEFakoEeqzpfC_yOIzkw" selectedElement="_rZaEFqkoEeqzpfC_yOIzkw" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_rZaEFqkoEeqzpfC_yOIzkw" elementId="explorer" containerData="2789" selectedElement="_rZaEF6koEeqzpfC_yOIzkw">
+              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_rZaEF6koEeqzpfC_yOIzkw" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_rZcgq6koEeqzpfC_yOIzkw" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:Java</tags>
@@ -539,837 +540,44 @@
       <tags>categoryTag:&#x30d8;&#x30eb;&#x30d7;</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_rZbSMqkoEeqzpfC_yOIzkw" elementId="org.eclipse.ui.editorss" selectedElement="_rZbSM6koEeqzpfC_yOIzkw">
-      <children xsi:type="basic:PartStack" xmi:id="_rZbSM6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_rZb6NakoEeqzpfC_yOIzkw">
+      <children xsi:type="basic:PartStack" xmi:id="_rZbSM6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_vAACwKmVEeq0zNCw-MoaCA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_rZbSNKkoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EurekaServerApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EurekaServerApplication.java&quot; partName=&quot;EurekaServerApplication.java&quot; title=&quot;EurekaServerApplication.java&quot; tooltip=&quot;cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;434&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_2w1-UKmUEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; partName=&quot;UserController.java&quot; title=&quot;UserController.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;32&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbSNakoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbSNqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbSN6koEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbSOKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbShKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbShakoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_rZbShqkoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ZuulServerApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ZuulServerApplication.java&quot; partName=&quot;ZuulServerApplication.java&quot; title=&quot;ZuulServerApplication.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/ZuulServerApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/ZuulServerApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1352&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_68uv8KmUEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EurekaServerApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EurekaServerApplication.java&quot; partName=&quot;EurekaServerApplication.java&quot; title=&quot;EurekaServerApplication.java&quot; tooltip=&quot;cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-eureka-service/src/main/java/com/iiht/emart/eureka/EurekaServerApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbSh6koEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbS06koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbS1KkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_rZbS1akoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserApplication.java&quot; partName=&quot;UserApplication.java&quot; title=&quot;UserApplication.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/UserApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/UserApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;322&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbS1qkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTIqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTI6koEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZbTJKkoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="OAuthApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;OAuthApplication.java&quot; partName=&quot;OAuthApplication.java&quot; title=&quot;OAuthApplication.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/OAuthApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/OAuthApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1552&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTJakoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTcakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTcqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZbTc6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JWTOAuth2Config.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTOAuth2Config.java&quot; partName=&quot;JWTOAuth2Config.java&quot; title=&quot;JWTOAuth2Config.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTOAuth2Config.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1427&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZbTdKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5iakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5iqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5i6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ClientDetailsServiceBuilder.class [FernFlower]" iconURI="platform:/plugin/org.sf.feeling.decompiler/icons/decompiler.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;ClientDetailsServiceBuilder.class&quot; partName=&quot;ClientDetailsServiceBuilder.class [FernFlower]&quot; title=&quot;ClientDetailsServiceBuilder.class [FernFlower]&quot; tooltip=&quot;org.springframework.security.oauth2.config.annotation.builders.ClientDetailsServiceBuilder&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-auth2-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/security\/oauth\/spring-security-oauth2\/2.0.12.RELEASE\/spring-security-oauth2-2.0.12.RELEASE.jar&amp;lt;org.springframework.security.oauth2.config.annotation.builders(ClientDetailsServiceBuilder.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;10&quot; selectionOffset=&quot;2421&quot; selectionTopPixel=&quot;612&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.sf.feeling.decompiler.ClassFileEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5jKkoEeqzpfC_yOIzkw" elementId="#ClassFileEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileEditorContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5jakoEeqzpfC_yOIzkw" elementId="#ClassFileRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileRulerContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5jqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5j6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
+        <children xsi:type="basic:Part" xmi:id="_7WFEEKmUEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; partName=&quot;application.yml&quot; title=&quot;application.yml&quot; tooltip=&quot;cloud-eureka-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-eureka-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5kKkoEeqzpfC_yOIzkw" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5kakoEeqzpfC_yOIzkw" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5kqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5k6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; partName=&quot;application.yml&quot; title=&quot;application.yml&quot; tooltip=&quot;cloud-user-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;76&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_9oADYKmUEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; partName=&quot;application.yml&quot; title=&quot;application.yml&quot; tooltip=&quot;cloud-transactions-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-transactions-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5lKkoEeqzpfC_yOIzkw" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5lakoEeqzpfC_yOIzkw" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5lqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5l6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; partName=&quot;application.yml&quot; title=&quot;application.yml&quot; tooltip=&quot;cloud-auth2-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;253&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5mKkoEeqzpfC_yOIzkw" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5makoEeqzpfC_yOIzkw" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5mqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5m6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserRepository.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserRepository.java&quot; partName=&quot;UserRepository.java&quot; title=&quot;UserRepository.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/repository/UserRepository.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/repository/UserRepository.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_vAACwKmVEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserBusiness.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserBusiness.java&quot; partName=&quot;UserBusiness.java&quot; title=&quot;UserBusiness.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5nKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5nakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5nqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5n6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AuthUserDetailsService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AuthUserDetailsService.java&quot; partName=&quot;AuthUserDetailsService.java&quot; title=&quot;AuthUserDetailsService.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/AuthUserDetailsService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;939&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_gBtzoKmXEeq0zNCw-MoaCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserService.java&quot; partName=&quot;UserService.java&quot; title=&quot;UserService.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;954&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5oKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5oakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5oqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5o6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JWTTokenEnhancer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTTokenEnhancer.java&quot; partName=&quot;JWTTokenEnhancer.java&quot; title=&quot;JWTTokenEnhancer.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTTokenEnhancer.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTTokenEnhancer.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;562&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5pKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5pakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5pqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5p6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JWTTokenStoreConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTTokenStoreConfig.java&quot; partName=&quot;JWTTokenStoreConfig.java&quot; title=&quot;JWTTokenStoreConfig.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTTokenStoreConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/JWTTokenStoreConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1365&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5qKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5qakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5qqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5q6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="WebSecurityConfigurer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;WebSecurityConfigurer.java&quot; partName=&quot;WebSecurityConfigurer.java&quot; title=&quot;WebSecurityConfigurer.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/WebSecurityConfigurer.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/security/WebSecurityConfigurer.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1309&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5rKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5rakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5rqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5r6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.yml" iconURI="platform:/plugin/org.springframework.ide.eclipse.boot.properties.editor.yaml/icons/spring_yml.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor&quot; name=&quot;application.yml&quot; partName=&quot;application.yml&quot; title=&quot;application.yml&quot; tooltip=&quot;cloud-zuul-service/src/main/resources/application.yml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/resources/application.yml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;383&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5sKkoEeqzpfC_yOIzkw" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5sakoEeqzpfC_yOIzkw" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5sqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5s6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CorsConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CorsConfig.java&quot; partName=&quot;CorsConfig.java&quot; title=&quot;CorsConfig.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/CorsConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/CorsConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5tKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5takoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5tqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5t6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SecurityConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SecurityConfig.java&quot; partName=&quot;SecurityConfig.java&quot; title=&quot;SecurityConfig.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/conf/SecurityConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5uKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5uakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5uqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5u6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AccessFilter.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AccessFilter.java&quot; partName=&quot;AccessFilter.java&quot; title=&quot;AccessFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/filter/AccessFilter.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;13&quot; selectionOffset=&quot;2201&quot; selectionTopPixel=&quot;674&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5vKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5vakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5vqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5v6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserContextFilter.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContextFilter.java&quot; partName=&quot;UserContextFilter.java&quot; title=&quot;UserContextFilter.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextFilter.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1130&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5wKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5wakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5wqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5w6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CorsConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CorsConfig.java&quot; partName=&quot;CorsConfig.java&quot; title=&quot;CorsConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/CorsConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5xKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5xakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5xqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5x6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JWTTokenStoreConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JWTTokenStoreConfig.java&quot; partName=&quot;JWTTokenStoreConfig.java&quot; title=&quot;JWTTokenStoreConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/JWTTokenStoreConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1017&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5yKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5yakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5yqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5y6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ResourceServerConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ResourceServerConfig.java&quot; partName=&quot;ResourceServerConfig.java&quot; title=&quot;ResourceServerConfig.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/conf/ResourceServerConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;69&quot; selectionOffset=&quot;815&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5zKkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5zakoEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb5zqkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb5z6koEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserContext.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContext.java&quot; partName=&quot;UserContext.java&quot; title=&quot;UserContext.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContext.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;12&quot; selectionOffset=&quot;659&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb50KkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6H6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6IKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6IakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserContextHolder.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContextHolder.java&quot; partName=&quot;UserContextHolder.java&quot; title=&quot;UserContextHolder.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextHolder.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextHolder.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6IqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6I6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6JKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6JakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserContextInterceptor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserContextInterceptor.java&quot; partName=&quot;UserContextInterceptor.java&quot; title=&quot;UserContextInterceptor.java&quot; tooltip=&quot;cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextInterceptor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-zuul-service/src/main/java/com/iiht/emart/zuul/util/UserContextInterceptor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6JqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6J6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6KKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6KakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserController.java&quot; partName=&quot;UserController.java&quot; title=&quot;UserController.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/controller/UserController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1137&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6KqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6K6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6LKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6LakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserBusiness.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserBusiness.java&quot; partName=&quot;UserBusiness.java&quot; title=&quot;UserBusiness.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserBusiness.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;813&quot; selectionTopPixel=&quot;90&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6LqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6L6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6MKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6MakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JpaRepository.class [FernFlower]" iconURI="platform:/plugin/org.sf.feeling.decompiler/icons/decompiler.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;JpaRepository.class&quot; partName=&quot;JpaRepository.class [FernFlower]&quot; title=&quot;JpaRepository.class [FernFlower]&quot; tooltip=&quot;org.springframework.data.jpa.repository.JpaRepository&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-user-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/1.11.9.RELEASE\/spring-data-jpa-1.11.9.RELEASE.jar&amp;lt;org.springframework.data.jpa.repository(JpaRepository.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1938&quot; selectionTopPixel=&quot;324&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.sf.feeling.decompiler.ClassFileEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6MqkoEeqzpfC_yOIzkw" elementId="#ClassFileEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileEditorContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6M6koEeqzpfC_yOIzkw" elementId="#ClassFileRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileRulerContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6NKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6NakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserService.java&quot; partName=&quot;UserService.java&quot; title=&quot;UserService.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/service/UserService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;107&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6NqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6N6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6OKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6OakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AuthenticationManagerBuilder.class [FernFlower]" iconURI="platform:/plugin/org.sf.feeling.decompiler/icons/decompiler.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;AuthenticationManagerBuilder.class&quot; partName=&quot;AuthenticationManagerBuilder.class [FernFlower]&quot; title=&quot;AuthenticationManagerBuilder.class [FernFlower]&quot; tooltip=&quot;org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-auth2-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/4.1.4.RELEASE\/spring-security-config-4.1.4.RELEASE.jar&amp;lt;org.springframework.security.config.annotation.authentication.builders(AuthenticationManagerBuilder.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;18&quot; selectionOffset=&quot;8356&quot; selectionTopPixel=&quot;1920&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.sf.feeling.decompiler.ClassFileEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6OqkoEeqzpfC_yOIzkw" elementId="#ClassFileEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileEditorContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6O6koEeqzpfC_yOIzkw" elementId="#ClassFileRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileRulerContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6PKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6PakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserEntity.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserEntity.java&quot; partName=&quot;UserEntity.java&quot; title=&quot;UserEntity.java&quot; tooltip=&quot;cloud-auth2-service/src/main/java/com/iiht/emart/auth/entity/UserEntity.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-auth2-service/src/main/java/com/iiht/emart/auth/entity/UserEntity.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6PqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6P6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6QKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6QakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserEntity.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserEntity.java&quot; partName=&quot;UserEntity.java&quot; title=&quot;UserEntity.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/entity/UserEntity.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/entity/UserEntity.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;358&quot; selectionTopPixel=&quot;36&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6QqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6Q6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6RKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6RakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="UserRepository.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UserRepository.java&quot; partName=&quot;UserRepository.java&quot; title=&quot;UserRepository.java&quot; tooltip=&quot;cloud-user-service/src/main/java/com/iiht/emart/user/repository/UserRepository.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/src/main/java/com/iiht/emart/user/repository/UserRepository.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1035&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6RqkoEeqzpfC_yOIzkw" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6R6koEeqzpfC_yOIzkw" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6SKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6SakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AuthorizationServerEndpointsConfiguration.class [FernFlower]" iconURI="platform:/plugin/org.sf.feeling.decompiler/icons/decompiler.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.sf.feeling.decompiler.ClassFileEditor&quot; name=&quot;AuthorizationServerEndpointsConfiguration.class&quot; partName=&quot;AuthorizationServerEndpointsConfiguration.class [FernFlower]&quot; title=&quot;AuthorizationServerEndpointsConfiguration.class [FernFlower]&quot; tooltip=&quot;org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=cloud-auth2-service/C:\/Users\/CeYang\/.m2\/repository\/org\/springframework\/security\/oauth\/spring-security-oauth2\/2.0.12.RELEASE\/spring-security-oauth2-2.0.12.RELEASE.jar&amp;lt;org.springframework.security.oauth2.config.annotation.web.configuration(AuthorizationServerEndpointsConfiguration.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;20&quot; selectionOffset=&quot;3754&quot; selectionTopPixel=&quot;756&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.sf.feeling.decompiler.ClassFileEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6SqkoEeqzpfC_yOIzkw" elementId="#ClassFileEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileEditorContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6S6koEeqzpfC_yOIzkw" elementId="#ClassFileRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#ClassFileRulerContext</tags>
-            <tags>popup:org.sf.feeling.decompiler.ClassFileEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6TKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_rZb6TakoEeqzpfC_yOIzkw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="cloud-user-service/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;cloud-user-service/pom.xml&quot; title=&quot;cloud-user-service/pom.xml&quot; tooltip=&quot;cloud-user-service/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/cloud-user-service/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6TqkoEeqzpfC_yOIzkw" elementId="org.eclipse.core.runtime.xml.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6T6koEeqzpfC_yOIzkw" elementId="org.eclipse.core.runtime.xml.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6UKkoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6UakoEeqzpfC_yOIzkw" elementId="org.eclipse.core.runtime.xml.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6UqkoEeqzpfC_yOIzkw" elementId="org.eclipse.core.runtime.xml.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6U6koEeqzpfC_yOIzkw" elementId="org.eclipse.m2e.core.pomFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6VKkoEeqzpfC_yOIzkw" elementId="org.eclipse.m2e.core.pomFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6VakoEeqzpfC_yOIzkw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6VqkoEeqzpfC_yOIzkw" elementId="org.eclipse.m2e.core.pomFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_rZb6V6koEeqzpfC_yOIzkw" elementId="org.eclipse.m2e.core.pomFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
         </children>
       </children>
     </sharedElements>
@@ -1663,6 +871,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view group_libraries=&quot;1&quot; layout=&quot;1&quot; linkWithEditor=&quot;1&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1589373566588&quot;>&#xD;&#xA;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;>&#xD;&#xA;&lt;xmlDefinedFilters>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;_patternFilterId_*.ajsym&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.ajdt.ui.editor.outline.AdviceFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.ajdt.ui.editor.outline.PointcutFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.ajdt.ui.editor.outline.DeclarationFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.ajdt.javamodel.CompilationUnitFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.ajdt.ui.editor.outline.IntroductionFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.decompiler*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;/xmlDefinedFilters>&#xD;&#xA;&lt;/customFilters>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_rZcgrKkoEeqzpfC_yOIzkw" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -2132,7 +1342,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_rZe8kKkoEeqzpfC_yOIzkw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Y5J_gKkpEeq8Y7TOO43T-A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="&#x5370;&#x5237;" command="_rZnfk6koEeqzpfC_yOIzkw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_g3iIsKmUEeq0zNCw-MoaCA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="&#x5370;&#x5237;" command="_rZnfk6koEeqzpfC_yOIzkw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_rZe8nqkoEeqzpfC_yOIzkw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2195,12 +1405,9 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_rZe9T6koEeqzpfC_yOIzkw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Y5QtMKkpEeq8Y7TOO43T-A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="&#x30a8;&#x30c7;&#x30a3;&#x30bf;&#x30fc;&#x306e;&#x30d4;&#x30f3;&#x7559;&#x3081;" type="Check" command="_rZlE_akoEeqzpfC_yOIzkw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_g3oPUKmUEeq0zNCw-MoaCA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="&#x30a8;&#x30c7;&#x30a3;&#x30bf;&#x30fc;&#x306e;&#x30d4;&#x30f3;&#x7559;&#x3081;" type="Check" command="_rZlE_akoEeqzpfC_yOIzkw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_rZe9WqkoEeqzpfC_yOIzkw" elementId="org.sf.feeling.decompiler.ClassFileEditor" visible="false">
-        <tags>Draggable</tags>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_rZe9W6koEeqzpfC_yOIzkw" elementId="org.springframework.ide.eclipse.boot.properties.editor.yaml.SpringYamlEditor" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_rZe9XKkoEeqzpfC_yOIzkw" elementId="org.eclipse.m2e.editor.MavenPomEditor" visible="false">

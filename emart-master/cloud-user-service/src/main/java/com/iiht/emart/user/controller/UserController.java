@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.iiht.emart.entity.UserEntity;
+import com.iiht.emart.user.entity.UserEntity;
 import com.iiht.emart.user.service.UserBusiness;
 
 @RestController
@@ -29,9 +29,9 @@ public class UserController {
 	 * @return
 	 */
 	@GetMapping("/search")
-	public List<UserEntity> findAllUsers(){
-
-		return userBusiness.findAllUsers();
+	public ResponseEntity<List<UserEntity>> findAllUsers(){
+		List<UserEntity> userEntity = userBusiness.findAllUsers();
+		return ResponseEntity.ok(userEntity);
 	}
 
 	@PostMapping
