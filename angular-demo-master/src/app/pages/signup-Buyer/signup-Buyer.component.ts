@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {UserService} from '../../services/user.service';
+import {SignupService} from '../../services/signup-Buyer.service';
 import { Router } from '@angular/router';
 import { Category } from 'src/app';
 
@@ -21,7 +21,7 @@ export class SignupBuyerComponent implements OnInit {
 
   alerts: Alert[];
 
-  constructor(private userService: UserService, private router: Router) {
+  constructor(private signupService: SignupService, private router: Router) {
     this.reset();
   }
 
@@ -31,7 +31,7 @@ export class SignupBuyerComponent implements OnInit {
   /* 登录操作 */
   onSubmit(value: any) {
     if (this.validInput(value)) {
-      this.userService.postSignIn(value).subscribe(
+      this.signupService.postSignUp(value).subscribe(
         data => {
           console.log(JSON.stringify(data));
           const info: any = data;
@@ -62,6 +62,18 @@ export class SignupBuyerComponent implements OnInit {
 
     if (value.password.length < 6) {
       this.alerts.push({type : 'danger', message: 'password length must be greater than 6!'});
+      return false;
+    }
+    if (value.confirmpassword.length < 6) {
+      this.alerts.push({type : 'danger', message: 'confirmpassword length must be greater than 6!'});
+      return false;
+    }
+    if (value.confirmpassword != value.password) {
+      this.alerts.push({type : 'danger', message: 'Password is different from confirm password'});
+      return false;
+    }
+    if (!value.tel) {
+      this.alerts.push({type : 'danger', message: 'Password is different from confirm password'});
       return false;
     }
     return true;

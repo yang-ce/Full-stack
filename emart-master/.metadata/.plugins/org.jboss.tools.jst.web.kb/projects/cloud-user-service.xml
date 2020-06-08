@@ -19,8 +19,8 @@
   <path value="C:/Users/CeYang/.m2/repository/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/com/jayway/restassured/json-path/2.4.0/json-path-2.4.0.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar"/>
-  <path value="C:/Users/CeYang/.m2/repository/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar"/>
+  <path value="C:/Users/CeYang/.m2/repository/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
   <path value="C:/Users/CeYang/.m2/repository/com/netflix/ribbon/ribbon-eureka/2.2.4/ribbon-eureka-2.2.4.jar"/>

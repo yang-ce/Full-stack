@@ -19,8 +19,10 @@ export class UserService {
     return sessionStorage.getItem('token');
   }
 
-  postSignIn(user) {
-    return this.http.post(`${environment.baseUrl}/api/cloud-auth-service/auth/oauth/token?grant_type=password&scope=webclient&username=admin&password=admin`, JSON.stringify(user), httpOptions);
+  postSignIn(user,username2,password2) {
+    
+    // return this.http.post(`${environment.baseUrl}/api/cloud-auth-service/auth/oauth/token?grant_type=password&scope=webclient&username=yangce&password=123456`, JSON.stringify(user), httpOptions);
+    return this.http.post(`${environment.baseUrl}/api/cloud-auth-service/auth/oauth/token?grant_type=password&scope=webclient&username=${username2}&password=${password2}`, JSON.stringify(user), httpOptions);
   }
 
 }
