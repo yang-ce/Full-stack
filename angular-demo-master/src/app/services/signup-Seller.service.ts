@@ -14,7 +14,7 @@ const httpOptions = {
 @Injectable({
   providedIn: 'root'
 })
-export class SignupBuyerService {
+export class SignupSellerService {
 
   constructor(private http: HttpClient) { }
 

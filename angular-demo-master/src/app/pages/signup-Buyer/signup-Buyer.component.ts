@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {SignupService} from '../../services/signup-Buyer.service';
+import {SignupBuyerService} from '../../services/signup-Buyer.service';
 import { Router } from '@angular/router';
 import { Category } from 'src/app';
 
@@ -21,7 +21,7 @@ export class SignupBuyerComponent implements OnInit {
 
   alerts: Alert[];
 
-  constructor(private signupService: SignupService, private router: Router) {
+  constructor(private signupService: SignupBuyerService, private router: Router) {
     this.reset();
   }
 

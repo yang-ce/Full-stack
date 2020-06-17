@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {UserService} from '../../services/user.service';
+import {SignupSellerService} from '../../services/signup-Seller.service';
 import { Router } from '@angular/router';
 import { Category } from 'src/app';
 
@@ -19,7 +19,7 @@ export class SignupSellerComponent implements OnInit {
 
   alerts: Alert[];
 
-  constructor(private userService: UserService, private router: Router) {
+  constructor(private signupService: SignupSellerService, private router: Router) {
     this.reset();
   }
 
@@ -29,7 +29,7 @@ export class SignupSellerComponent implements OnInit {
   /* 登录操作 */
   onSubmit(value: any) {
     if (this.validInput(value)) {
-      this.userService.postSignIn(value).subscribe(
+      this.signupService.postSignUp(value).subscribe(
         data => {
           console.log(JSON.stringify(data));
           const info: any = data;
